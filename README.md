@@ -1,0 +1,3 @@
+# Console Battle Simulator
+## More Info
+This project was made with VS Code using .NET 5 on a macOS. It was based on a Python tutorial made by Rylan Fowers in his [Youtube Channel](https://www.youtube.com/channel/UCub4qT8Sgm7ytZsO-jLL4Ow). The project structure was based on the video series about console template by Vinícius Andrade in his [Udemy course](https://www.udemy.com/course/angular-dotnetcore-efcore/).
